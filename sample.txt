@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 0C9B-11BC
+
+ Directory of C:\ProjectDemo
+
+03/22/2018  01:19 PM    <DIR>          .
+03/22/2018  01:19 PM    <DIR>          ..
+03/22/2018  01:19 PM                 0 sample.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  433,843,138,560 bytes free
